@@ -1,0 +1,9 @@
+
+
+.w-30vw{
+    width: 30vw;
+}
+.active{
+    background-color: rgb(2, 2, 118);
+    color: azure;
+}
